@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alpeshjadhav.
-- 👀 I’m interested in coding and database
-- 🌱 I’m currently learning new coding languages
-- I’m store my code for my learning perpose.
+- 👀 I’m interested in development.
+- 🌱 I’m queriest in learning new coding languages
+- I store my code for my learning purposes.
