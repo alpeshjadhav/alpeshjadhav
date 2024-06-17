@@ -4,3 +4,5 @@
 - 💻 I store my code here for learning purposes and to share with the community.
 
 Feel free to check out my repositories and connect with me!
+
+- 📫 How to reach me: djalpesh786@gmail.com
