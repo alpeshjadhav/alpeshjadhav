@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @alpeshjadhav.
-- 👀 I’m interested in development.
-- 🌱 I’m queriest in learning new coding languages
-- I store my code for my learning purposes.
+👋 Hi, I’m Alpesh Jadhav (@alpeshjadhav)
+👀 I’m interested in development.
+🌱 I'm eager to learn new coding languages and technologies.
+💻 I store my code here for learning purposes and to share with the community.
+
+Feel free to check out my repositories and connect with me!
